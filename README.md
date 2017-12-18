@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+## Hello Wanderer of the Web!
+This is the future home of a beautifully formatted project website for the learning experiences of Elise King!
+
+The aforementioned individual is currently learning how to make a beautifully formatted project website. 
+
+This page will be promptly updated as soon as this happens.
 
 You can use the [editor on GitHub](https://github.com/ejk6218/Project_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+
+
+
+
+Things  just for my refrence: 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
