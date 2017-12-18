@@ -5,13 +5,11 @@ The aforementioned individual is currently learning how to make a beautifully fo
 
 This page will be promptly updated as soon as this happens.
 
-You can use the [editor on GitHub](https://github.com/ejk6218/Project_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
 
 
 
 Things  just for my refrence: 
+You can use the [editor on GitHub](https://github.com/ejk6218/Project_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
